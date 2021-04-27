@@ -1,0 +1,8 @@
+.btn_rapidao{
+    color:grey;
+    font-size: 1rem;
+    font-weight: bold;
+}
+.btn_rapidao:hover{
+    color: rgb(160, 255, 160);
+}
